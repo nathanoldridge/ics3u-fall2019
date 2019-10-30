@@ -1,0 +1,9 @@
+x = str(input("press 1, 2, 3 or 4"))
+if x=="1":
+    print("go away")
+if x =="2":
+    print("please leave")
+if x=="3":
+    print("you're not welcome")
+if x=="4":
+    print("don't stay")
